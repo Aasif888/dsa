@@ -5,6 +5,8 @@
   <style>
     body {
       font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
     }
     button {
       display: inline-block;
@@ -12,14 +14,23 @@
       padding: 10px;
       font-size: 16px;
       cursor: pointer;
+      background-color: #1f1f1f;
+      color: #e0e0e0;
+      border: 1px solid #444;
+      border-radius: 5px;
+    }
+    button:hover {
+      background-color: #2a2a2a;
     }
     pre {
-      background-color: #f0f0f0;
+      background-color: #1e1e1e;
+      color: #e0e0e0;
       padding: 15px;
-      border: 1px solid #ccc;
+      border: 1px solid #444;
       overflow-x: auto;
       display: none;
       white-space: pre-wrap;
+      border-radius: 5px;
     }
     .experiment {
       margin-bottom: 20px;
@@ -40,6 +51,8 @@
   </script>
 </head>
 <body>
+</body>
+</html>
 
 <h2>DSA Practical Experiments - Aasif Mohd</h2>
 
