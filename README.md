@@ -24,8 +24,8 @@
       background-color: #2a2a2a;
     }
     pre {
-      background-color: #121212;
-      color: #e0e0e0;
+      background-color: #121212 ! important;
+      color: #e0e0e0 ! important;
       padding: 15px;
       border: 1px solid #444;
       overflow-x: auto;
