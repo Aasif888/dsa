@@ -54,7 +54,7 @@
 </body>
 </html>
 
-<h2>DSA Practical Experiments - Aasif Mohd</h2>
+<h2> </h2>
 
 <div class="experiment">
   <button onclick="toggleCode('exp1')">Experiment 1</button>
